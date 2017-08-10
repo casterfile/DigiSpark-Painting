@@ -27,4 +27,4 @@ YouTube: https://goo.gl/BFZ7C5 </br>
 StackOverFlow: https://goo.gl/J1hFqL </br>
 Github: https://goo.gl/jPHFPe </br>
 
-![Alt text](/relative/Demo/1.PNG?raw=true "Demo Picture")
+![Alt text](/Demo/1.PNG?raw=true "Demo Picture")
